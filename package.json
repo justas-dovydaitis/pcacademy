@@ -1,0 +1,22 @@
+{
+  "name": "pcacademy",
+  "version": "1.0.0",
+  "description": "akademijos uzduotys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justuxlt1/pcacademy.git"
+  },
+  "author": "Justas Dovydaitis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justuxlt1/pcacademy/issues"
+  },
+  "homepage": "https://github.com/justuxlt1/pcacademy#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}
